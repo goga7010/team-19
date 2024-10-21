@@ -5,7 +5,7 @@ _This is just a suggested template for the README of your project, feel free to 
 - Isis Plesnikova (Project Lead)
 - Haden Nguyen
 - George Sukhotin
-- Saniya
+- Saniya Goyal
 
 ### Project Description
 Describe the goal of your project here.
